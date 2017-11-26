@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ImageResizeWinForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultSavePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\t70030\viz$\KV17\KandidatVisning_BC9_SourceImages\PreMadeKarrusel</Value>
+    </Setting>
+    <Setting Name="DefaultSourcePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\t70030\viz$\KV17\KandidatVisning_BC9_SourceImages\PrioriteredeBilleder</Value>
+    </Setting>
+    <Setting Name="DefaultHeight" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">128</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
